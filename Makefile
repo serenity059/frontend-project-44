@@ -1,3 +1,6 @@
+lint:
+	npx eslint .
+
 install:
 	nmp ci
 
