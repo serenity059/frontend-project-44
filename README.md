@@ -3,3 +3,5 @@
 [![Actions Status](https://github.com/serenity059/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/serenity059/frontend-project-44/actions)
 ### Brain-even game:
 [Record](https://asciinema.org/a/I5k1bd2rgCCSNefhFuwjCKxXt)
+### Brain-calc game:
+[Record](https://asciinema.org/a/x17McbJpSjIqWYAZqiJ3HGkZ9)
