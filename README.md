@@ -7,3 +7,5 @@
 [Record](https://asciinema.org/a/x17McbJpSjIqWYAZqiJ3HGkZ9)
 ### Brain-gcd game:
 [Record](https://asciinema.org/a/mSJyUMWRxmg84eMDvC5bVVMSV)
+### Brain-progression game:
+[Record](https://asciinema.org/a/G5i8JLakRY2eEBwKkUqzxS3eQ)
