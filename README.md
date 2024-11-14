@@ -9,3 +9,5 @@
 [Record](https://asciinema.org/a/mSJyUMWRxmg84eMDvC5bVVMSV)
 ### Brain-progression game:
 [Record](https://asciinema.org/a/G5i8JLakRY2eEBwKkUqzxS3eQ)
+### Brain-prime game:
+[Record](https://asciinema.org/a/MNR2JQ4jX1xFZEBuW9mCo7AQH)
